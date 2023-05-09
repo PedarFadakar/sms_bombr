@@ -11,6 +11,6 @@
 ```
 git clone https://github.com/PedarFadakar/sms_bombr
 cd sms_bombr
-python sms.py
+python sms-hash.py
 ```
 <li> Channel Telegram : @pedar_fadakar</li>
